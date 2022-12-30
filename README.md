@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @simonemarino
 - 👀 I’m interested in Web Development 
-- 🌱 I’m currently learning Laravel and Vue
+- 🌱 I’m currently learning Laravel and Angular
 
 <!---
 - 📫 How to reach me @
