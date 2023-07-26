@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @simonemarino
 - 👀 I’m interested in Web Development 
-- 🌱 I’m currently learning Laravel and Angular
+- 💻 PHP, Laravel, Javascript, HTML5, CSS3, MySQL, Angular 
+- 🌱 I’m currently learning Flutter
 
 <!---
 - 📫 How to reach me @
