@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @simonemarino
-- 👀 I’m  Full-Stack Web Development 
+- 👀 I’m  Full-Stack Web Developer 
 - 💻 PHP, Laravel, Javascript, HTML5, CSS3, MySQL, Angular 
 - 🌱 I’m currently learning Flutter
 
